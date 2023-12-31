@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\gavin\\.nuget\\packages\\": {}
+    "C:\\Users\\Gavin S\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gavin\\Documents\\GitHub\\readme.generator\\readme.generator.csproj",
+      "projectUniqueName": "H:\\Coding Materials\\GitHub\\GitHub_Practice\\readme.generator\\readme.generator.csproj",
       "projectName": "readme.generator",
-      "projectPath": "C:\\Users\\gavin\\Documents\\GitHub\\readme.generator\\readme.generator.csproj",
-      "packagesPath": "C:\\Users\\gavin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gavin\\Documents\\GitHub\\readme.generator\\obj\\",
+      "projectPath": "H:\\Coding Materials\\GitHub\\GitHub_Practice\\readme.generator\\readme.generator.csproj",
+      "packagesPath": "C:\\Users\\Gavin S\\.nuget\\packages\\",
+      "outputPath": "H:\\Coding Materials\\GitHub\\GitHub_Practice\\readme.generator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\gavin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Gavin S\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

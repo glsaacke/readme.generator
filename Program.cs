@@ -7,15 +7,20 @@ StreamWriter outfile = new StreamWriter("markdown.txt");
 
 Title(outfile);
 Description(outfile);
+RunInstructions(outfile);
 KeyFeatures(outfile);
 
+Console.ForegroundColor = ConsoleColor.Green;
 System.Console.WriteLine("Done!");
+Console.ResetColor();
+
 outfile.Close();
 
 
 //END MAIN***
 
 static void Title(StreamWriter outfile){
+    Console.Clear();
     System.Console.WriteLine("Enter the title for your project");
     string userTitle = Console.ReadLine();
 
@@ -23,6 +28,7 @@ static void Title(StreamWriter outfile){
 }
 
 static void Description(StreamWriter outfile){
+    Console.Clear();
     System.Console.WriteLine("Enter a description for your project");
     string userDescription = Console.ReadLine();
 
@@ -30,7 +36,17 @@ static void Description(StreamWriter outfile){
     outfile.WriteLine(userDescription);
 }
 
+static void RunInstructions(StreamWriter outfile){
+    Console.Clear();
+    System.Console.WriteLine("Enter run instructions for your project");
+    string userInstructions = Console.ReadLine();
+
+    outfile.WriteLine("## Run Instructions");
+    outfile.WriteLine(userInstructions);
+}
+
 static void KeyFeatures(StreamWriter outfile){
+    Console.Clear();
     outfile.WriteLine("## Key Features");
 
     System.Console.WriteLine("Enter a key feature, or 1 to stop");
