@@ -1,0 +1,14 @@
+C:\Users\gavin\Documents\GitHub\readme.generator\obj\Debug\net7.0\readme.generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavin\Documents\GitHub\readme.generator\obj\Debug\net7.0\readme.generator.AssemblyInfoInputs.cache
+C:\Users\gavin\Documents\GitHub\readme.generator\obj\Debug\net7.0\readme.generator.AssemblyInfo.cs
+C:\Users\gavin\Documents\GitHub\readme.generator\obj\Debug\net7.0\readme.generator.csproj.CoreCompileInputs.cache
+C:\Users\gavin\Documents\GitHub\readme.generator\bin\Debug\net7.0\readme.generator.exe
+C:\Users\gavin\Documents\GitHub\readme.generator\bin\Debug\net7.0\readme.generator.deps.json
+C:\Users\gavin\Documents\GitHub\readme.generator\bin\Debug\net7.0\readme.generator.runtimeconfig.json
+C:\Users\gavin\Documents\GitHub\readme.generator\bin\Debug\net7.0\readme.generator.dll
+C:\Users\gavin\Documents\GitHub\readme.generator\bin\Debug\net7.0\readme.generator.pdb
+C:\Users\gavin\Documents\GitHub\readme.generator\obj\Debug\net7.0\readme.generator.dll
+C:\Users\gavin\Documents\GitHub\readme.generator\obj\Debug\net7.0\refint\readme.generator.dll
+C:\Users\gavin\Documents\GitHub\readme.generator\obj\Debug\net7.0\readme.generator.pdb
+C:\Users\gavin\Documents\GitHub\readme.generator\obj\Debug\net7.0\readme.generator.genruntimeconfig.cache
+C:\Users\gavin\Documents\GitHub\readme.generator\obj\Debug\net7.0\ref\readme.generator.dll
