@@ -1,11 +1,12 @@
 # README Markdown Generator
 ## Description
-This project serves as a means to create my own markdown files. This will streamline the file creation process and make the formatting consistent across projects
+This project serves as a personal tool to develop README file text in markdown for all of my GitHub repositories. With this program, my process will be streamlined. This README file was written using the program.
+## Run Instructions
+To use, first clone the repository, then run the program in your terminal.
 ## Key Features
-### File Handling
-• Exports text data to a file
-• User can copy markdown text from file
-### Methods
-• Uses c
-•  to create scripts
-• Also uses .NET framework
+### Plain Text to Markdown
+• Answer questions regarding your project with the program
+
+• A version of your answers will be stored in the .txt file in markdown format
+
+• Text can be copied and pasted into the README file
